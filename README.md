@@ -19,7 +19,8 @@
 ![top_ending_locations](https://user-images.githubusercontent.com/36451701/126410063-b1598887-53bc-4e4b-9aad-7717c6c50df6.png)
 
 ### New York City Bike Utilization
-![bike_utilization](https://user-images.githubusercontent.com/36451701/126410365-ca8f2093-853f-401a-a6f4-fc74f33ea59a.png)
+![bike_utilization](https://user-images.githubusercontent.com/36451701/126410431-e8e31ca3-e0c3-46aa-884b-466922f37594.png)
+
 
 
 
