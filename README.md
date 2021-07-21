@@ -20,7 +20,7 @@
   - Python 3.8.5
 
 ## Challenge Results:
-[Link to dashboard] 
+[Link to dashboard](https://public.tableau.com/app/profile/david.supple/viz/Module_14_Challenge_16266571568650/Story1?publish=yes)
 
 ### New York Citibike data:
 ![nyc_bike_dashboard](https://user-images.githubusercontent.com/36451701/126410765-7db4b377-a8ea-4c02-b2ac-96ce675d3ed5.png)
