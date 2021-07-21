@@ -17,6 +17,7 @@
 - Software:
   - Tableau 2021.2.0
   - Jupyter Notebook 6.1.4
+  - Python 3.8.5
 
 ## Challenge Results:
 [Link to dashboard] 
