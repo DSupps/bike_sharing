@@ -13,7 +13,8 @@
 [Link to dashboard] 
 
 ### New York Citibike data:
-![number_of_trips](https://user-images.githubusercontent.com/36451701/126410035-2c9a8917-5911-447b-ad1d-a6ca25626ddf.png)
+![nyc_bike_dashboard](https://user-images.githubusercontent.com/36451701/126410765-7db4b377-a8ea-4c02-b2ac-96ce675d3ed5.png)
+
 
 ### New York CityTop Ending Locations:
 ![top_ending_locations](https://user-images.githubusercontent.com/36451701/126410552-64d31648-1d8e-4115-8302-a17532bb0ca2.png)
