@@ -29,6 +29,20 @@
 ### Checkout Times for Users:
 ![checkout_times_for_users](https://user-images.githubusercontent.com/36451701/126411301-2ae2037b-feec-49da-93fb-67c3986b7d84.png)
 
+### Checkout Times by Gender:
+![checkout_times_by_gender](https://user-images.githubusercontent.com/36451701/126411433-94816855-7e57-4d32-936b-1b0e5278924f.png)
+
+### Trips by Weekday for Each Hour:
+![trips_by_weekday_for_each_hour](https://user-images.githubusercontent.com/36451701/126411774-0338e7f8-bbae-4cdc-965e-cf0e25131954.png)
+
+### Trips by Gender (Weekday per Hour):
+![trips_by_gender_weekday](https://user-images.githubusercontent.com/36451701/126411920-483b9cc6-b635-4329-be4a-4a9cdf4897b4.png)
+
+### Trips by Gender by Weekday:
+![trips_by_gender](https://user-images.githubusercontent.com/36451701/126412229-7ab69d14-61e0-45df-99de-df0b7ab52a03.png)
+
+
+
 
 
 
