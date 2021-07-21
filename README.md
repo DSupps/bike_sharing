@@ -33,6 +33,9 @@
 #### New York CityTop Ending Locations:
 ![top_ending_locations](https://user-images.githubusercontent.com/36451701/126410552-64d31648-1d8e-4115-8302-a17532bb0ca2.png)
 
+   - The top ending locations appear to be on the upper west side down to financial district. 
+   - Bikes do not tend to end up north of central park.
+   - There are some hot ending spots right on the other east side of Williamsburg Bridge. 
 
 #### New York City Bike Utilization:
 ![bike_utilization](https://user-images.githubusercontent.com/36451701/126410431-e8e31ca3-e0c3-46aa-884b-466922f37594.png)
