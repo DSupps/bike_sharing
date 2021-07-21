@@ -40,7 +40,10 @@
 #### New York City Bike Utilization:
 ![bike_utilization](https://user-images.githubusercontent.com/36451701/126410431-e8e31ca3-e0c3-46aa-884b-466922f37594.png)
 
-
+   - There are a total of 13,383 bikes used in August and it appears that there about 20 of them that are used way more than the other.
+   - Those bikes that are larger and red in color will possibly be in need of maintenance due to distance traveled. 
+   - There are a lot of bikes that don't travel as far as the others. 
+ 
 #### August Peak Hours by Usertype:
 ![usertype](https://user-images.githubusercontent.com/36451701/126411082-a314553d-b542-430f-9a3f-2ce89c3e1c49.png)
 
