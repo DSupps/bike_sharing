@@ -25,7 +25,11 @@
 ### New York Citibike data:
 ![nyc_bike_dashboard](https://user-images.githubusercontent.com/36451701/126410765-7db4b377-a8ea-4c02-b2ac-96ce675d3ed5.png)
 
-
+    - Total number of citibike rides in the during the month of August in 2019 was 2,344,224
+    - 72.2% of customers are male and 27.7% are female when all "unknown" genders are removed.
+    - There appears to be a wide range of age for the customers.  
+    - The trend in trip duration skews longer they younger the rider. 
+    
 #### New York CityTop Ending Locations:
 ![top_ending_locations](https://user-images.githubusercontent.com/36451701/126410552-64d31648-1d8e-4115-8302-a17532bb0ca2.png)
 
