@@ -16,7 +16,8 @@
 ![number_of_trips](https://user-images.githubusercontent.com/36451701/126410035-2c9a8917-5911-447b-ad1d-a6ca25626ddf.png)
 
 ### New York CityTop Ending Locations:
-![top_ending_locations](https://user-images.githubusercontent.com/36451701/126410063-b1598887-53bc-4e4b-9aad-7717c6c50df6.png)
+![top_ending_locations](https://user-images.githubusercontent.com/36451701/126410552-64d31648-1d8e-4115-8302-a17532bb0ca2.png)
+
 
 ### New York City Bike Utilization
 ![bike_utilization](https://user-images.githubusercontent.com/36451701/126410431-e8e31ca3-e0c3-46aa-884b-466922f37594.png)
