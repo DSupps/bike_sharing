@@ -40,37 +40,51 @@
 #### New York City Bike Utilization:
 ![bike_utilization](https://user-images.githubusercontent.com/36451701/126410431-e8e31ca3-e0c3-46aa-884b-466922f37594.png)
 
-   - There are a total of 13,383 bikes used in August and it appears that there about 20 of them that are used way more than the other.
+   - There are a total of 13,383 bikes used in August and it appears that there about 20 of them that are used way more than the others.
    - Those bikes that are larger and red in color will possibly be in need of maintenance due to distance traveled. 
+   - Bike 17551 and 39570 could potentially be in need of major service. 
    - There are a lot of bikes that don't travel as far as the others. 
  
 #### August Peak Hours by Usertype:
 ![usertype](https://user-images.githubusercontent.com/36451701/126411082-a314553d-b542-430f-9a3f-2ce89c3e1c49.png)
 
-
+   - 81% of the riders have a subsctiption.
+   - The most popular times to rend a bike are from 5pm to about 7pm.
+   - Raising prices during those popular hours could increase revenue.
+   - The best time to perform maintenance looks to be from 3am to 5am.
+   - Potential discount could happen from 10am to noon and after 9pm.
+  
 #### Checkout Times for Users:
 ![checkout_times_for_users](https://user-images.githubusercontent.com/36451701/126411301-2ae2037b-feec-49da-93fb-67c3986b7d84.png)
 
-
+   - Most bike trips tend to last from four to six hours.
+  
 #### Checkout Times by Gender:
 ![checkout_times_by_gender](https://user-images.githubusercontent.com/36451701/126411433-94816855-7e57-4d32-936b-1b0e5278924f.png)
 
-
+   - Male and female riders exhibit the same peak pattern in trip duration times.
+   - Males outnumber female riders 2.5 to 1
+ 
 #### Trips by Weekday for Each Hour:
 ![trips_by_weekday_for_each_hour](https://user-images.githubusercontent.com/36451701/126411774-0338e7f8-bbae-4cdc-965e-cf0e25131954.png)
 
-
+   - Heatmap of the number of trips per weekday and hour of day show the most popular times as 7am to 9am and 5pm to 7pm Mon-Fri.
+   - The busiest times on the weekends are 10am to about 6pm
+   - Ideal times to perform maintenance on the bikes would be from 11pm to 4am any day of the week.
+   - The busiest time of the week is 5pm to 7pm on Thursdays.
+   - There tends to be a dropoff in activity on Wednesday in the evenings for some reason?
+   
 #### Trips by Gender (Weekday per Hour):
 ![trips_by_gender_weekday](https://user-images.githubusercontent.com/36451701/126411920-483b9cc6-b635-4329-be4a-4a9cdf4897b4.png)
 
-
+   - Subscribers make a majority of the rides with male subsribers the majority.
+   - Male subscribers have the highest activity on Thursday and Friday.
+   - Non-subscribers do most of their activity on the weekends.
+ 
 #### Trips by Gender by Weekday:
 ![trips_by_gender](https://user-images.githubusercontent.com/36451701/126412229-7ab69d14-61e0-45df-99de-df0b7ab52a03.png)
 
-
-
-
-
-
+   - Popular times during the week are 7am to 9am and 5pm to 7pm during the week.
+   - Popular times on the weekends are from 10am to 7pm.
 
 ## Challenge Summary:
