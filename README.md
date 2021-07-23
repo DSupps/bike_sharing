@@ -90,6 +90,7 @@
 ## Challenge Summary:
 ![summary1](https://user-images.githubusercontent.com/36451701/126832202-0813037d-18f5-449f-a031-179fdd9bf57c.png)
 
+### Key Takeaways:
 As we can see by the data, Citibike in New York City is a very popular mode of transportation.  
 
 We can also see that the data reveals some patterns that should be taken into account when starting up business in Des Moines.
