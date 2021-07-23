@@ -24,12 +24,12 @@
 
 ### New York Citibike data:
 ![nyc_bike_dashboard](https://user-images.githubusercontent.com/36451701/126410765-7db4b377-a8ea-4c02-b2ac-96ce675d3ed5.png)
-
-    - Total number of citibike rides in the during the month of August in 2019 was 2,344,224
-    - 72.2% of customers are male and 27.7% are female when all "unknown" genders are removed.
-    - There appears to be a wide range of age for the customers.  
-    - The trend in trip duration skews longer they younger the rider. 
-    
+ 
+   - Total number of citibike rides in the during the month of August in 2019 was 2,344,224
+   - 72.2% of customers are male and 27.7% are female when all "unknown" genders are removed. 
+   - There appears to be a wide range of age for the customers.
+   - The trend in trip duration skews longer they younger the rider.
+  
 #### New York CityTop Ending Locations:
 ![top_ending_locations](https://user-images.githubusercontent.com/36451701/126410552-64d31648-1d8e-4115-8302-a17532bb0ca2.png)
 
@@ -88,3 +88,20 @@
    - Popular times on the weekends are from 10am to 7pm.
 
 ## Challenge Summary:
+![summary1](https://user-images.githubusercontent.com/36451701/126832202-0813037d-18f5-449f-a031-179fdd9bf57c.png)
+
+As we can see by the data, Citibike in New York City is a very popular mode of transportation.  
+
+We can also see that the data reveals some patterns that should be taken into account when starting up business in Des Moines.
+
+   - A majority of the riders are male (72%).
+   - A vast majority (81%) of the riders are subscribers who tend to rent Monday through Friday during the hours of 7am-9am and 5pm-7pm.
+   - Traveling to and from work are what the bikes get used for the most. 
+   - The non-subscribers(19%) tend to rent on the weekend, mostly on Saturday during the hours of 10am-7pm. 
+   - The non-subscrivers are probably more of a mix of tourists and those getting out for a leisure weekend cruise.
+   - Maintennace on the bikes are best to do very early in the morning, between the hours of 2am-5am being the optimal times.
+   - There are certain "hot spots" around the city where the most bikes tend to rented and returned. 
+   - Finding the rental "hot spots" in Des Moines will be of utmost priority.  
+   - Having the Des Moines "hot spots" stocked with the right amount of bikes will allow the business to maximize revenue.
+
+
