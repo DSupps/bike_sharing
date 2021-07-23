@@ -105,4 +105,7 @@ We can also see that the data reveals some patterns that should be taken into ac
    - Finding the rental "hot spots" in Des Moines will be of utmost priority.  
    - Having the Des Moines "hot spots" stocked with the right amount of bikes will allow the business to maximize revenue.
 
-
+### Possible Future Analysis:
+Des Moines is the capital of Iowa and there are a lot activites that happen in and around the city. I believe there are some things we can look further into with the NYC data in terms of what are some of the attributes around the busiest locations such as:
+   - Other types of businesses are located around the busiest NYC locations such as coffee shops, food markets, sports arenas, parks, etc. 
+   - Customer lifetime value analysis
