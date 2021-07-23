@@ -99,13 +99,13 @@ We can also see that the data reveals some patterns that should be taken into ac
    - A vast majority (81%) of the riders are subscribers who tend to rent Monday through Friday during the hours of 7am-9am and 5pm-7pm.
    - Traveling to and from work are what the bikes get used for the most. 
    - The non-subscribers(19%) tend to rent on the weekend, mostly on Saturday during the hours of 10am-7pm. 
-   - The non-subscrivers are probably more of a mix of tourists and those getting out for a leisure weekend cruise.
-   - Maintennace on the bikes are best to do very early in the morning, between the hours of 2am-5am being the optimal times.
+   - The non-subscribers are probably more of a mix of tourists and those getting out for a leisure weekend cruise.
+   - Maintenance on the bikes are best to do very early in the morning, between the hours of 2am-5am being the optimal times.
    - There are certain "hot spots" around the city where the most bikes tend to rented and returned. 
    - Finding the rental "hot spots" in Des Moines will be of utmost priority.  
    - Having the Des Moines "hot spots" stocked with the right amount of bikes will allow the business to maximize revenue.
 
 ### Possible Future Analysis:
-Des Moines is the capital of Iowa and there are a lot activites that happen in and around the city. I believe there are some things we can look further into with the NYC data in terms of what are some of the attributes around the busiest locations such as:
+Des Moines is the capital of Iowa and there are a lot of activities that happen in and around the city. I believe there are some things we can look further into with the NYC data in terms of what are some of the attributes around the busiest locations such as:
    - Other types of businesses are located around the busiest NYC locations such as coffee shops, food markets, sports arenas, parks, etc. 
    - Customer lifetime value analysis
