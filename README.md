@@ -1,6 +1,6 @@
 # bike_sharing
 
-## Challenge Overview:
+## Project Overview:
 *After a trip to remember last summer to New York City with a friend of mine, we have decided that we would like to open a bike sharing business in our hometown of Des Moines, Iowa.  After pitching the idea to potential investors, one of them really liked the idea and would like to be involved.  However, they would like more details about the business and what to expect if one were to be opened in Des Moines.*
 
 *To convince potential investors that a bike sharing business in Des Moines is a good idea, Kate and I have decided  to look at some data from Citibike in New York City and create a proposal.*
