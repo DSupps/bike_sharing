@@ -18,6 +18,7 @@
   - Tableau 2021.2.0
   - Jupyter Notebook 6.1.4
   - Python 3.8.5
+  - Anaconda Navigator
 
 ## Project Results:
 [Click to link to Tableau Public dashboard](https://public.tableau.com/app/profile/david.supple/viz/Module_14_Challenge_16266571568650/Story1?publish=yes)
