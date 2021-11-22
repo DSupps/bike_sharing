@@ -19,7 +19,7 @@
   - Jupyter Notebook 6.1.4
   - Python 3.8.5
 
-## Challenge Results:
+## Project Results:
 [Click to link to Tableau Public dashboard](https://public.tableau.com/app/profile/david.supple/viz/Module_14_Challenge_16266571568650/Story1?publish=yes)
 
 ### New York Citibike data:
@@ -87,7 +87,7 @@
    - Popular times during the week are 7am to 9am and 5pm to 7pm during the week.
    - Popular times on the weekends are from 10am to 7pm.
 
-## Challenge Summary:
+## Project Summary:
 ![summary1](https://user-images.githubusercontent.com/36451701/126832202-0813037d-18f5-449f-a031-179fdd9bf57c.png)
 
 ### Key Takeaways:
